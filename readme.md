@@ -10,8 +10,7 @@ Collection of scripts &amp; resources associated with WiredInCode.com articles.
 |                                  |                                                                                                                                                                                           |
 |                                  |                                                                                                                                                                                           |
 
-Tool to decode 2FA TOTP QR codes to retrieve the secret key.    
- The QR processing is Javascript based, so everything is done in your local browser and the secrets are never exposed.
+
 
 - 2FA_QR_decoder.html
   
